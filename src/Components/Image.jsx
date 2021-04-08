@@ -1,7 +1,7 @@
 import React from "react";
 
 const styles = {
-  height: "500px",
+  height: "750px",
   width: "100%"
 };
 
